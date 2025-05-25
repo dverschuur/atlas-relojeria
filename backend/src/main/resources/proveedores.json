@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Casio Inc.",
+    "correo": "contacto@casio.com",
+    "telefono": "+81-3-1234-5678",
+    "rif": "J-12345678-9"
+  },
+  {
+    "nombre": "Swatch Group",
+    "correo": "ventas@swatch.com",
+    "telefono": "+41-21-987-6543",
+    "rif": "J-98765432-1"
+  }
+]

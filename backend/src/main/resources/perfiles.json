@@ -1,0 +1,19 @@
+[ {
+  "nombre" : "Manuela Matos",
+  "id" : "31",
+  "edad" : 18,
+  "contrasena" : "123",
+  "esAdministrador" : true
+}, {
+  "nombre" : "Isabella Napolitano",
+  "id" : "4536729",
+  "edad" : 12,
+  "contrasena" : "33333",
+  "esAdministrador" : false
+}, {
+  "nombre" : "isa",
+  "id" : "2222",
+  "edad" : 22,
+  "contrasena" : "1",
+  "esAdministrador" : false
+} ]

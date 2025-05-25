@@ -1,0 +1,22 @@
+[ {
+  "nombre" : "Casio F91W",
+  "descripcion" : "Reloj digital resistente al agua",
+  "precio" : 25.0,
+  "id" : "P001",
+  "cantidad" : 13,
+  "imagen" : "casio1.jpg"
+}, {
+  "nombre" : "Rolex Submariner",
+  "descripcion" : "Reloj de lujo para buceo profesional",
+  "precio" : 9500.0,
+  "id" : "P002",
+  "cantidad" : 1,
+  "imagen" : "rolex1.jpg"
+}, {
+  "nombre" : "Swatch Originals",
+  "descripcion" : "Reloj para uso diario",
+  "precio" : 75.0,
+  "id" : "P003",
+  "cantidad" : 28,
+  "imagen" : "swatch1.jpg"
+} ]

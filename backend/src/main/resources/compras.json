@@ -1,0 +1,19 @@
+[
+  {
+    "numeroDeCompra": "OC001",
+    "proveedor": "Casio Inc.",
+    "monto": "150.00",
+    "producto": "Casio F91W",
+    "cantidadDeProducto": "10",
+    "fechaCompra": "2025-05-23T14:30:00"
+  },
+  {
+    "numeroDeCompra": "OC002",
+    "proveedor": "Swatch Group",
+    "monto": "225.00",
+    "producto": "Swatch Originals",
+    "cantidadDeProducto": "15",
+    "fechaCompra": "2025-05-22T09:15:00"
+  }
+]
+
