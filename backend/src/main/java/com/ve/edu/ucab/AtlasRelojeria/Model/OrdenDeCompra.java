@@ -1,14 +1,13 @@
 package com.ve.edu.ucab.AtlasRelojeria.Model;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 public class OrdenDeCompra {
     String numeroDeCompra, proveedor, monto, producto, cantidadDeProducto;
-    LocalDateTime fechaCompra;
+    LocalDate fechaCompra;
 
     /**  CONSTRUCTOR **/
-    public OrdenDeCompra(String numeroDeCompra, String proveedor, String monto, String producto, String cantidadDeProducto, LocalDateTime fechaCompra) {
+    public OrdenDeCompra(String numeroDeCompra, String proveedor, String monto, String producto, String cantidadDeProducto, LocalDate fechaCompra) {
         this.numeroDeCompra = numeroDeCompra;
         this.proveedor = proveedor;
         this.monto = monto;
@@ -60,11 +59,11 @@ public class OrdenDeCompra {
         this.cantidadDeProducto = cantidadDeProducto;
     }
 
-    public LocalDateTime getFechaCompra() {
+    public LocalDate getFechaCompra() {
         return fechaCompra;
     }
 
-    public void setFechaCompra(LocalDateTime fechaCompra) {
+    public void setFechaCompra(LocalDate fechaCompra) {
         this.fechaCompra = fechaCompra;
     }
 }

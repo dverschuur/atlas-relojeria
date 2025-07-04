@@ -1,19 +1,85 @@
-[
-  {
-    "numeroDeCompra": "OC001",
-    "proveedor": "Casio Inc.",
-    "monto": "150.00",
-    "producto": "Casio F91W",
-    "cantidadDeProducto": "10",
-    "fechaCompra": "2025-05-23T14:30:00"
-  },
-  {
-    "numeroDeCompra": "OC002",
-    "proveedor": "Swatch Group",
-    "monto": "225.00",
-    "producto": "Swatch Originals",
-    "cantidadDeProducto": "15",
-    "fechaCompra": "2025-05-22T09:15:00"
-  }
-]
-
+[ {
+  "numeroDeCompra" : "C1",
+  "proveedor" : "Audemars Piguet",
+  "monto" : "800000.0",
+  "producto" : "P9",
+  "cantidadDeProducto" : "2",
+  "fechaCompra" : [ 2025, 5, 26 ]
+}, {
+  "numeroDeCompra" : "C2",
+  "proveedor" : "Casio",
+  "monto" : "910.0",
+  "producto" : "P5",
+  "cantidadDeProducto" : "7",
+  "fechaCompra" : [ 2025, 5, 26 ]
+}, {
+  "numeroDeCompra" : "C3",
+  "proveedor" : "Swatch",
+  "monto" : "750.0",
+  "producto" : "P10",
+  "cantidadDeProducto" : "3",
+  "fechaCompra" : [ 2025, 5, 26 ]
+}, {
+  "numeroDeCompra" : "C4",
+  "proveedor" : "Vacheron Constantin",
+  "monto" : "15000.0",
+  "producto" : "P11",
+  "cantidadDeProducto" : "1",
+  "fechaCompra" : [ 2025, 5, 26 ]
+}, {
+  "numeroDeCompra" : "C5",
+  "proveedor" : "Audemars Piguet",
+  "monto" : "800000.0",
+  "producto" : "P9",
+  "cantidadDeProducto" : "2",
+  "fechaCompra" : [ 2025, 5, 27 ]
+}, {
+  "numeroDeCompra" : "C6",
+  "proveedor" : "Cartier",
+  "monto" : "28400.0",
+  "producto" : "P7",
+  "cantidadDeProducto" : "4",
+  "fechaCompra" : [ 2025, 5, 27 ]
+}, {
+  "numeroDeCompra" : "C7",
+  "proveedor" : "Cartier",
+  "monto" : "14200.0",
+  "producto" : "P7",
+  "cantidadDeProducto" : "2",
+  "fechaCompra" : [ 2025, 5, 27 ]
+}, {
+  "numeroDeCompra" : "C8",
+  "proveedor" : "Swatch",
+  "monto" : "1250.0",
+  "producto" : "P10",
+  "cantidadDeProducto" : "5",
+  "fechaCompra" : [ 2025, 5, 27 ]
+}, {
+  "numeroDeCompra" : "C9",
+  "proveedor" : "Swatch",
+  "monto" : "25000.0",
+  "producto" : "P10",
+  "cantidadDeProducto" : "100",
+  "fechaCompra" : [ 2025, 5, 27 ]
+}, {
+  "numeroDeCompra" : "C10",
+  "proveedor" : "Patek Philippe",
+  "monto" : "50000.0",
+  "producto" : "P13",
+  "cantidadDeProducto" : "1",
+  "fechaCompra" : [ 2025, 6, 14 ]
+}, {
+  "numeroDeCompra" : "C11",
+  "proveedor" : "Cartier",
+  "monto" : "7100.0",
+  "producto" : "P7",
+  "cantidadDeProducto" : "1",
+  "fechaCompra" : [ 2025, 6, 14 ]
+}, {
+  "numeroDeCompra" : "C12",
+  "proveedor" : "Rolex",
+  "monto" : "24000.0",
+  "producto" : "P14",
+  "cantidadDeProducto" : "2",
+  "fechaCompra" : [ 2025, 6, 16 ]
+} ]

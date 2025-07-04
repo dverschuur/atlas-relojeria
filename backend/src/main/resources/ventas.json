@@ -1,64 +1,92 @@
 [ {
-  "fecha" : [ 2025, 5, 23 ],
-  "monto" : 50.0,
+  "fecha" : [ 2025, 5, 26 ],
+  "monto" : 7100.0,
   "idVenta" : "V001",
-  "idProducto" : "P001",
-  "idUsuario" : "U001",
-  "direccion" : null
+  "idProducto" : "P7",
+  "idUsuario" : "4536729",
+  "direccion" : "el cafetal"
 }, {
-  "fecha" : [ 2025, 5, 22 ],
-  "monto" : 75.0,
+  "fecha" : [ 2025, 5, 26 ],
+  "monto" : 25.0,
   "idVenta" : "V002",
-  "idProducto" : "P002",
-  "idUsuario" : "U002",
-  "direccion" : null
+  "idProducto" : "P1",
+  "idUsuario" : "30906270",
+  "direccion" : "macaracuay"
 }, {
-  "fecha" : [ 2025, 5, 25 ],
-  "monto" : 0.0,
+  "fecha" : [ 2025, 5, 26 ],
+  "monto" : 400000.0,
   "idVenta" : "V003",
-  "idProducto" : "P001",
-  "idUsuario" : "2222",
-  "direccion" : "la boyera"
+  "idProducto" : "P9",
+  "idUsuario" : "30906270",
+  "direccion" : "los palos grandes"
 }, {
-  "fecha" : [ 2025, 5, 25 ],
-  "monto" : 25.0,
-  "idVenta" : "V004",
-  "idProducto" : "P001",
-  "idUsuario" : "2222",
-  "direccion" : "la boyera"
-}, {
-  "fecha" : [ 2025, 5, 25 ],
+  "fecha" : [ 2025, 5, 26 ],
   "monto" : 75.0,
+  "idVenta" : "V004",
+  "idProducto" : "P3",
+  "idUsuario" : "30906270",
+  "direccion" : "santa ines"
+}, {
+  "fecha" : [ 2025, 5, 26 ],
+  "monto" : 250.0,
   "idVenta" : "V005",
-  "idProducto" : "P003",
-  "idUsuario" : "2222",
-  "direccion" : "iii"
+  "idProducto" : "P10",
+  "idUsuario" : "30906270",
+  "direccion" : "santa rosa"
 }, {
-  "fecha" : [ 2025, 5, 25 ],
-  "monto" : 9500.0,
+  "fecha" : [ 2025, 5, 26 ],
+  "monto" : 400000.0,
   "idVenta" : "V006",
-  "idProducto" : "P002",
-  "idUsuario" : "2222",
-  "direccion" : "hola"
+  "idProducto" : "P9",
+  "idUsuario" : "30906270",
+  "direccion" : "los samanes"
 }, {
-  "fecha" : [ 2025, 5, 25 ],
-  "monto" : 25.0,
+  "fecha" : [ 2025, 5, 26 ],
+  "monto" : 4500.0,
   "idVenta" : "V007",
-  "idProducto" : "P001",
-  "idUsuario" : "2222",
-  "direccion" : "ddd"
+  "idProducto" : "P8",
+  "idUsuario" : "30906270",
+  "direccion" : "el cafetal"
 }, {
-  "fecha" : [ 2025, 5, 25 ],
-  "monto" : 25.0,
+  "fecha" : [ 2025, 5, 26 ],
+  "monto" : 15000.0,
   "idVenta" : "V008",
-  "idProducto" : "P001",
-  "idUsuario" : "2222",
-  "direccion" : "sjss"
+  "idProducto" : "P11",
+  "idUsuario" : "4536729",
+  "direccion" : "chacao"
 }, {
-  "fecha" : [ 2025, 5, 25 ],
-  "monto" : 25.0,
+  "fecha" : [ 2025, 5, 27 ],
+  "monto" : 15000.0,
   "idVenta" : "V009",
-  "idProducto" : "P001",
-  "idUsuario" : "2222",
-  "direccion" : "prueba"
+  "idProducto" : "P11",
+  "idUsuario" : "45",
+  "direccion" : "caricuao"
+}, {
+  "fecha" : [ 2025, 5, 27 ],
+  "monto" : 400000.0,
+  "idVenta" : "V010",
+  "idProducto" : "P9",
+  "idUsuario" : "1234",
+  "direccion" : "Caracas"
+}, {
+  "fecha" : [ 2025, 5, 27 ],
+  "monto" : 9500.0,
+  "idVenta" : "V011",
+  "idProducto" : "P2",
+  "idUsuario" : "30540234",
+  "direccion" : "montalban"
+}, {
+  "fecha" : [ 2025, 5, 27 ],
+  "monto" : 50000.0,
+  "idVenta" : "V012",
+  "idProducto" : "P13",
+  "idUsuario" : "4536729",
+  "direccion" : "el cafetal"
+}, {
+  "fecha" : [ 2025, 6, 14 ],
+  "monto" : 15000.0,
+  "idVenta" : "V013",
+  "idProducto" : "P11",
+  "idUsuario" : "30906270",
+  "direccion" : "macaracuay"
 } ]

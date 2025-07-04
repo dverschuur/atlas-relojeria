@@ -7,22 +7,35 @@ public class Producto {
 
 /** Atributos de la clase Producto*/
 
-    String nombre, descripcion;
-    double precio;
-    String id;
-    int cantidad;
+    private String id;
+    private String nombre;
+    private String descripcion;
+    private double precio;
+    private int cantidad;
+    private String imagen;
+    private String proveedor;
 
-    public Producto(String nombre, String descripcion, double precio, String id, int cantidad) {
+    public Producto(String nombre, String descripcion, double precio, String id, int cantidad, String imagen, String proveedor) {
         this.nombre = nombre;
         this.descripcion = descripcion;
         this.precio = precio;
         this.id = id;
         this.cantidad = cantidad;
+        this.imagen = imagen;
+        this.proveedor = proveedor;
     }
 
     public Producto() {}
 
     /** Getters y Setters */
+
+    public String getProveedor() {
+        return proveedor;
+    }
+
+    public void setProveedor(String proveedor) {
+        this.proveedor = proveedor;
+    }
 
     public void AgregarProducto(int numero) {
         this.cantidad += numero;
@@ -36,6 +49,14 @@ public class Producto {
         else{
             return false;
         }
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 
     public String getNombre() {
@@ -62,14 +83,6 @@ public class Producto {
         this.precio = precio;
     }
 
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
-
     public int getCantidad() {
         return cantidad;
     }
@@ -78,14 +91,16 @@ public class Producto {
         this.cantidad = cantidad;
     }
 
-    private String imagen;
-
     public String getImagen() {
         return imagen;
     }
 
+    public void setImagen(String imagen) {
+        this.imagen = imagen;
+    }
+
     @Override
     public String toString() {
-        return nombre +";"+ descripcion +";" + precio + ";" + id + ";" + cantidad;
+        return nombre +";"+ descripcion +";" + precio + ";" + id + ";" + cantidad + ";" + proveedor;
     }
 }

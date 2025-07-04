@@ -1,6 +1,6 @@
 [ {
-  "nombre" : "Manuela Matos",
-  "id" : "31",
+  "nombre" : "admin",
+  "id" : "1009080",
   "edad" : 18,
   "contrasena" : "123",
   "esAdministrador" : true
@@ -11,9 +11,9 @@
   "contrasena" : "33333",
   "esAdministrador" : false
 }, {
-  "nombre" : "isa",
-  "id" : "2222",
-  "edad" : 22,
-  "contrasena" : "1",
+  "nombre" : "Maria Ovalles",
+  "id" : "1234",
+  "edad" : 25,
+  "contrasena" : "1234",
   "esAdministrador" : false
 } ]
